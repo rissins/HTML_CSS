@@ -1,0 +1,37 @@
+header{
+    height: 280px;
+    background-image: url('../image/bg.png');
+    position: relative;
+}
+header h1{
+    font-size: 3em;
+    color: #ffc;
+    right: 20px;
+    bottom: 70px;
+    position: absolute;
+}
+header h2{
+    font-size: 2em;
+    color: #ff0;
+    right: 20px;
+    bottom: 30px;
+    position: absolute;
+
+}
+
+.navi{
+    width: 960px;
+    background: black;
+    height: 150px;
+    margin: -17px;
+}
+
+.navi ul{
+    list-style: none;
+}
+.navi a{
+    text-decoration: none;
+    padding: 10px 5px 5px 35px;
+    color: #fff;
+    display: block;
+}
