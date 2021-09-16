@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        ul li{
+            margin: 15px;
+        }
+        li.hot::before{
+            content: "NEW!";
+            background: red;
+            color: white;
+            font-size: x-small;
+            padding: 2px 4px;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>제품 목록</h1>
+        <ul>
+            <li class="hot">제품 A</li>
+            <li>제품 B</li>
+            <li>제품 C</li>
+            <li class="hot">제품 D</li>
+        </ul>
+    </div>
+</body>
+</html>
