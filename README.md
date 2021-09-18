@@ -9,5 +9,5 @@
 
 ## <ul><li>9월 3주차</li></ul>
   - [x] API불러와서 웹사이트 적용시키기
-  - [ ] TDD racingCar 하기
+  - [x] TDD racingCar 하기
   
