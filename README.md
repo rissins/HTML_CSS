@@ -13,5 +13,5 @@
   
 ## <ul><li>9월 4주차</li></ul>
   - [x] summoner api  JSON 파싱
-  - [ ] match api json 파싱
+  - [x] match api json 파싱
   
