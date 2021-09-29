@@ -15,3 +15,11 @@
   - [x] summoner api  JSON 파싱
   - [x] match api json 파싱
   
+## <ul><li>9월 4주차</li></ul>
+  - [x] summoner api  JSON 파싱
+  - [x] match api json 파싱
+  
+## <ul><li>9월 5주차(09/21 ~ 09/30)</li></ul>
+  - [ ] 게시판 기초 디자인
+  
+  
