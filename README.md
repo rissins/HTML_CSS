@@ -24,4 +24,4 @@
   
 ## <ul><li>10월 1주차</li></ul>
   - [ ] 게시판 기초 디자인
-  - [ ] URLConnection 과정 
+  - [ ] URLConnection 과정 정리
