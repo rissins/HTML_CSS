@@ -26,4 +26,4 @@
   - [x] 게시판 기초 디자인
   
 ## <ul><li>10월 2주차</li></ul>
-  - [ ] [자바 스터디 1번째 목차하기][https://github.com/rissins/study/tree/master/%EC%9E%90%EB%B0%94%EA%B3%A0%EA%B8%89%EC%8A%A4%ED%84%B0%EB%94%94]
+  - [ ] [자바 스터디 1번째 목차하기][https://github.com/rissins/study/tree/master/%EC%9E%90%EB%B0%94%EA%B3%A0%EA%B8%89%EC%8A%A4%ED%84%B0%EB%94%94 "git link"]
