@@ -1,5 +1,9 @@
 # TIL todo list
 
+<details>
+<summary>지난 todo list</summary>
+<div markdown="1">
+
 ## <ul><li>9월 2주차</li></ul>
   - [x] JSP를 이용한 웹사이트 제작
   - [x] api 사용을 위한 JSON, jackson 공부
@@ -21,6 +25,12 @@
   
 ## <ul><li>9월 5주차(09/21 ~ 09/30)</li></ul>
   - [ ] 게시판 기초 디자인
+
+
+</div>
+</details>
+
+
   
 ## <ul><li>10월 1주차</li></ul>
   - [x] 게시판 기초 디자인
