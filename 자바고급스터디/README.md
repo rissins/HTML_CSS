@@ -19,7 +19,7 @@
 </details>
 
     
-1. Stream, lamda에 대해서 아는대로 설명해주세요.
+1. [Stream, lamda에 대해서 아는대로 설명해주세요.](https://records-habit.tistory.com/6)
 2. Wrapper Class에 대해서 설명해보고 Wrapping을 함으로써 얻는 이점과 일급콜렉션에 대해서 사용 예시를 들며 설명해보세요.
 3. JVM구조에 대해서 설명, 자바 버전에 따라 어떻게 바뀌는가?
 4. 자바가 컴파일 되는 과정에 대해서 설명해보세요,
