@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        var today = new Date();
+        var nowMonth = today.getMonth()+1;
+        var nowDate = today.getDate();
+        var nowDay = today.getDay();
+        var week = new Array('일','월','화','수','목','금','토');
+
+        document.write("오늘 날짜보기");
+        document.write(nowMonth);
+        document.write(nowDate);
+        document.write(week[nowDay]);
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
