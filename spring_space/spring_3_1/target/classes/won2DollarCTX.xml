@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+      
+      <bean id="won2Dollar" class="com.javalec.spring_3_Ex4.Won2Dollar"></bean>
+      <bean id="myWon2Dollar" class = "com.javalec.spring_3_Ex4.MyWon2Dollar">
+      	<property name="won2Dollar" ref="won2Dollar"></property>
+      	<property name="money" value="3600"></property>
+      </bean>
+      
+</beans>      
