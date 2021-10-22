@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/util https://www.springframework.org/schema/util/spring-util.xsd">
+
+    <bean id="singer1" class="com.javalec.spring_ex6_3.Singer">
+        <constructor-arg value="방탄소년단"/>
+        <property name="member" value="7"/>
+        <property name="song">
+            <list>
+                <value>페이크러브</value>
+                <value>버터</value>
+            </list>
+        </property>
+
+        <!--                <util:list id="song" value-type="java.lang.String">-->
+        <!--                        <value>페이크러브</value>-->
+        <!--                        <value>버터</value>-->
+        <!--                </util:list>-->
+
+    </bean>
+
+    <bean id="singerInfo1" class="com.javalec.spring_ex6_3.SingerInfo">
+        <property name="singer" ref="singer1"/>
+    </bean>
+
+</beans>
