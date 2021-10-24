@@ -21,7 +21,7 @@
     
 1. [Stream, lamda에 대해서 아는대로 설명해주세요.](https://records-habit.tistory.com/6)
 2. [Wrapper Class에 대해서 설명해보고 Wrapping을 함으로써 얻는 이점과 일급콜렉션에 대해서 사용 예시를 들며 설명해보세요.](https://records-habit.tistory.com/7)
-3. JVM구조에 대해서 설명, 자바 버전에 따라 어떻게 바뀌는가?
+3. [JVM구조에 대해서 설명, 자바 버전에 따라 어떻게 바뀌는가?](https://records-habit.tistory.com/11)
 4. 자바가 컴파일 되는 과정에 대해서 설명해보세요,
 5. 제네릭 타입을 컴파일하면 class 파일에 제네릭이 남아있나요? generic type erasure에 대해서 설명해보세요.
 6. 리플렉션에 대해서 설명하세요.
