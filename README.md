@@ -43,6 +43,6 @@
 
 
 ## <ul><li>10월 4주차</li></ul>
-  - [ ] 자바 스터디 [4번째 목차](https://github.com/rissins/study/tree/master/%EC%9E%90%EB%B0%94%EA%B3%A0%EA%B8%89%EC%8A%A4%ED%84%B0%EB%94%94)하기
+  - [x] 자바 스터디 [4번째 목차](https://github.com/rissins/study/tree/master/%EC%9E%90%EB%B0%94%EA%B3%A0%EA%B8%89%EC%8A%A4%ED%84%B0%EB%94%94)하기
   - [x] 자바 스터디 준비 (21-10-27)
   - [ ] OAuth에 대해 알기
