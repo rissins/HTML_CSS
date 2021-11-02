@@ -51,4 +51,4 @@
 ## <ul><li>11월 1주차</li></ul>
   - [ ] 자바 스터디 [5번째 목차](https://github.com/rissins/study/tree/master/%EC%9E%90%EB%B0%94%EA%B3%A0%EA%B8%89%EC%8A%A4%ED%84%B0%EB%94%94)하기
   - [x] 자바 스터디 준비 (21-11-03)
-  - [x] OAuth에 대해 알기
+  - [x] [OAuth에 대해 알기](https://github.com/rissins/study/blob/master/%EB%A7%A4%EC%9D%BC%20%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EB%A6%AC%EB%B7%B0/OAuth%EC%99%80%20%EC%B6%A4%EC%9D%84.md)
