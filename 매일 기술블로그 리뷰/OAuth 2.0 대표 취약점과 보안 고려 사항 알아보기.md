@@ -80,7 +80,7 @@ API 서버 : Resource Server
 
 - OAuth의 경우 취약점이 발생하면 사용자 계정 탈취로 이어지기 때문에 적용 및 구현할 때 보안에 신경을 써서 진행해야한다.
     
-    ![https://image.toast.com/aaaadh/alpha/2017/techblog/4%282%29.png)
+    ![https://image.toast.com/aaaadh/alpha/2017/techblog/4%282%29.png](https://image.toast.com/aaaadh/alpha/2017/techblog/4%282%29.png)
     
 
 **OAuth 2.0 보안 검수 항복**
