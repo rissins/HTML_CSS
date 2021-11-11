@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+    <script>
+        $(function(){
+            var $text1 = $(".text_1 span")
+            var $text2 = $(".text_2 span")
+            var $box = $(".box")
+
+            var off_t = $box.offset().top;
+
+            console.log(off_t);
+            
+
+        })
+    </script>
+</head>
+<body>
+    <div id = "box_wrap">
+        <p class="box">박스</p>
+    </div>
+    <p class="txt_1">절대 top 위치값:
+        <span></span>
+    </p>
+    <p class="txt_2">상대 top 위치값:
+        <span></span>
+    </p>
+</body>
+</html>
