@@ -24,7 +24,7 @@
 3. [JVM구조에 대해서 설명, 자바 버전에 따라 어떻게 바뀌는가?](https://records-habit.tistory.com/11)
 4. [자바가 컴파일 되는 과정에 대해서 설명해보세요,](https://records-habit.tistory.com/19)
 5. [제네릭 타입을 컴파일하면 class 파일에 제네릭이 남아있나요? generic type erasure에 대해서 설명해보세요.](https://records-habit.tistory.com/24)
-6. 리플렉션에 대해서 설명하세요.
+6. [리플렉션에 대해서 설명하세요.](https://records-habit.tistory.com/26)
 7. gc의 동작원리와 gc가 언제 작동하는지 설명하세요.
 8. gc 종류별 차이에 대해서 설명하세요. (Serial, Parallel, CMS, G1, Z)
 9. static에 대해서 아는대로 설명해보세요.
