@@ -92,8 +92,92 @@ print("추출문자 : ", str[10:14])
 # if grade == "F":
 #     print("등급: %s, 평점 : 0" %grade)
 
-gender = int(input("주민번호 뒷자리 첫 번째 숫자 : "))
-if gender == 1 or gender == 3:
-    print("남성")
-if gender == 2 or gender == 4:
-    print("여성")
+# gender = int(input("주민번호 뒷자리 첫 번째 숫자 : "))
+# if gender == 1 or gender == 3:
+#     print("남성")
+# if gender == 2 or gender == 4:
+#     print("여성")
+
+# middle = 0
+# number1 = int(input("첫 번쨰 정수는 ? : "))
+# number2 = int(input("두 번쨰 정수는 ? : "))
+# number3 = int(input("세 번쨰 정수는 ? : "))
+# if number1 > number2 and number1 > number3:
+#     if number2 > number3:
+#         middle = number2
+#     else:
+#         middle = number3
+# if number2 > number3 and number2 > number1:
+#     if number3 > number1:
+#         middle = number3
+#     else:
+#         middle = number1
+# if number3 > number1 and number3 > number2:
+#     if number1 > number2:
+#         middle = number1
+#     else:
+#         middle = number2
+#
+# print("%d, %d, %d 중에서 중간 값은 %d 입니다." %(number1,number2, number3, middle))
+
+
+# moeum = ["a","e","i","o","u"]
+# jaeum = ["t"]
+#
+# text = input("영문 소문자 하나를 입력하세요: ")
+# if text in moeum:
+#     print("모음")
+# elif text in jaeum:
+#     print("자음")
+    
+    
+# age = int(input("나이는 ? "))
+# if age < 65:
+#     price = 2000
+# else:
+#     price = 0
+# print("나이 : %d세" %age)
+# print("입장료 : %d원" %price)
+
+
+# pil = int(input("필기시험 점수는 ?"))
+# sil = int(input("실기시험 점수는 ?"))
+# print("필기시험 점수 : %d" %pil)
+# print("실기시험 점수 : %d" %sil)
+# if pil >= 80 and sil >= 80:
+#     print("판정 : 합격")
+# else:
+#     print("판정 : 불합격")
+
+# number1 = int(input("첫 번째 숫자를 입력하세요 : "))
+# number2 = int(input("두 번째 숫자를 입력하세요 : "))
+# sum = number1 + number2
+# print("%d + %d = %d" %(number1,number2,sum))
+# if sum % 3 == 0:
+#     print("%d는 3의 배수다" %sum)
+# else:
+#     print("%d는 3의 배수가 아니다" %sum)
+# 
+# number = int(input("숫자를 입력하세요 : "))
+# if number % 2 == 0:
+#     print("%d는 짝수이다" %number)
+# else:
+#     print("%d는 홀수이다" %number)
+
+# number = input("수를 입력하세요 : ")
+# if len(number) == 1:
+#     print("%s는 한 자리 숫자이다." %number)
+# elif len(number) == 2:
+#     print("%s는 두 자리 숫자이다." %number)
+# elif len(number) == 3:
+#     print("%s는 세 자리 숫자이다." %number)
+# else:
+#     print("오류")
+
+text = input("문자열을 입력하세요 : ")
+count = len(text)
+print(count)
+if count % 2 == 0:
+    print("짝수")
+else:
+    print("홀수")
