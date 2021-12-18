@@ -66,17 +66,22 @@
   - [x] 자바 스터디 준비 (21-11-24)
   - [x] [로그에 대해서 알기](https://github.com/rissins/study/blob/master/%EC%9E%90%EB%B0%94%EA%B3%A0%EA%B8%89%EC%8A%A4%ED%84%B0%EB%94%94/0.Log.md)
   - [x] 프로젝트 pr 완료
-
-</div>
-</details>
-
-## <ul><li>12월 1주차(2021-11-29 ~ 2021-12-5)</li></ul>
+  
+  
+  ## <ul><li>12월 1주차(2021-11-29 ~ 2021-12-5)</li></ul>
   - [ ] 고급 자바 [8번째 목차](https://github.com/rissins/study/tree/master/%EC%9E%90%EB%B0%94%EA%B3%A0%EA%B8%89%EC%8A%A4%ED%84%B0%EB%94%94)하기
   - [x] 자바 스터디 준비 (21-12-01)
 
+
+</div>
+</details>
 
 ## <ul><li>12월 2주차</li></ul>
   - [x] 고급 자바 [8번째 목차](https://github.com/rissins/study/tree/master/%EC%9E%90%EB%B0%94%EA%B3%A0%EA%B8%89%EC%8A%A4%ED%84%B0%EB%94%94)하기
   - [x] 자바 스터디 준비 (21-12-08) 끝 !
   - [x] 스케줄링 마무리
+
+
+## <ul><li>12월 3주차</li></ul>
+  - [ ] 고급 자바 [9번째 목차](https://github.com/rissins/study/tree/master/%EC%9E%90%EB%B0%94%EA%B3%A0%EA%B8%89%EC%8A%A4%ED%84%B0%EB%94%94)하기
 
