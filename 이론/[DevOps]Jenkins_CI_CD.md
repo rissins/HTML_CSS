@@ -1,16 +1,12 @@
-# Jenkins 도입기
-
 # 0. 자동배포
 
----
 
 ## - **전체 Flow**
 
-![Untitled](Jenkins%20%E1%84%83%E1%85%A9%203233e/Untitled.png)
+![build_flow](https://github.com/rissins/study/blob/master/%EC%9D%B4%EB%A1%A0/images/build_flow.png?raw=true)
 
 # 1.  `GitHub WebHook`
 
----
 
 - HTTP POST를 통한 간단한 이벤트 알림을 통해 어떤 일이 발생할 때 발생하는 `HTTP POST 형식의 HTTP 콜백`
 - 예로, Jenkins의 `Github WebHook`은 개발자가 마스터 브랜치에 Push할 때 빌드를 트리거하는데 사용
@@ -93,13 +89,11 @@
 
 # 2. Jenkins
 
----
 
 - `Git Webhook trigger`를 통해  얻은 데이터로 Jenkins는 `CI / CD` 과정으로 배포를 진행한다.
 
 ## 1)  **CI (Continuous Integration)**
 
----
 
 - **지속적 통합**
 - 개발을 진행하면서도 품질을 관리할 수 있도록 한다.
@@ -117,7 +111,6 @@
 
 ## 2)  **CD (Continuous Deployment and Continuous Delivery)**
 
----
 
 - 소프트웨어가 항상 신뢰 가능한 수준에서 배포될 수 있도록 관리하는 개념
 - **지속적 배포(Continuous Deployment), 지속적 제공(Continuous Delivery)**
@@ -129,7 +122,6 @@
 
 ## 3) Automated CI/CD with Jenkins
 
----
 
 - **Jenkins의 CI/CD Flow**
 
@@ -143,7 +135,9 @@
     5. Jenkins는 코드를 pull하고 task의 커밋단계에 진입한다.
     6. 코드와 호출된 빌드된 단계를 컴파일한다.
     7. 코드를 master에 병합하고 Jenkins에서 코드를 ubuntu에 배포한다.
-    
+
+
+---
 - 참고
 
 [https://jrichardsz.github.io/devops/devops-with-git-and-jenkins-using-webhooks](https://jrichardsz.github.io/devops/devops-with-git-and-jenkins-using-webhooks)
