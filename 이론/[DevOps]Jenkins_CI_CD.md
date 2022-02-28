@@ -23,17 +23,11 @@
         
         | Key | Type | Description |
         | --- | --- | --- |
-        | action | string | Most webhook payloads contain an action
-         property that contains the specific activity that triggered the event. |
+        | action | string | Most webhook payloads contain an action property that contains the specific activity that triggered the event. |
         | sender | object | The user that triggered the event. This property is included in every webhook payload. |
-        | repository | object | The repository
-         where the event occurred. Webhook payloads contain the repository
-         property when the event occurs from activity in a repository. |
-        | organization | object | Webhook payloads contain the organization
-         object when the webhook is configured for an organization or the event occurs from activity in a repository owned by an organization. |
-        | installation | object | The GitHub App installation. Webhook payloads contain the installation
-         property when the event is configured for and sent to a GitHub App. For more information, see "Building GitHub App
-        ." |
+        | repository | object | The repository where the event occurred. Webhook payloads contain the repository property when the event occurs from activity in a repository. |
+        | organization | object | Webhook payloads contain the organization object when the webhook is configured for an organization or the event occurs from activity in a repository owned by an organization. |
+        | installation | object | The GitHub App installation. Webhook payloads contain the installation property when the event is configured for and sent to a GitHub App. For more information, see "Building GitHub App ." |
     - 이 외에도 호출된 상태에 따라 포함되는 데이터는 달라진다. Github의 공식문서에서 더욱 자세히 알 수 있다.
         
         [Webhook events and payloads - GitHub Docs](https://docs.github.com/en/developers/webhooks-and-events/webhooks/webhook-events-and-payloads#webhook-payload-object-common-properties)
