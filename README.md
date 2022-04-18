@@ -90,6 +90,7 @@
   ## <ul><li>4월 4주차</li></ul>
   - [ ] 고급 자바 [10번째 목차](https://github.com/rissins/study/tree/master/%EC%9E%90%EB%B0%94%EA%B3%A0%EA%B8%89%EC%8A%A4%ED%84%B0%EB%94%94)하기
   - [ ] JPA 동작 과정
+  - [ ] 프로그래머스 SQL 문제 풀기
 
  
 
