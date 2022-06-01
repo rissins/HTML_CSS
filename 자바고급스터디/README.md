@@ -29,8 +29,4 @@
 8. gc 종류별 차이에 대해서 설명하세요. (Serial, Parallel, CMS, G1, Z)
 9. [static에 대해서 아는대로 설명해보세요.](https://records-habit.tistory.com/39)
 10. [인터페이스에 대해서 아는대로 설명하고, 인터페이스, 추상클래스, enum의 차이점에 대해서 설명해보세요.](https://records-habit.tistory.com/30)
-11. synchronize VS asynchronize / blocking VS non blocking 차이점
-12. 동시성 문제가 발생 할 수 있는 상황 2개 예시 들어보세요.
-13. 직렬화가 무엇이고 왜 해야되는지 설명해보세요.
-14. error와 exception이 어떻게 다른지 설명하고 어떻게 처리할 수 있는지에 대해 설명해보세요.
-15. String str = ""; 과 String str = new String(""); 두 코드가 같은지 다른지 설명하고 자세한 동작원리에 대해서 설명해보세요.
+11. [synchronize VS asynchronize / blocking VS non blocking 차이점](https://records-habit.tistory.com/72)
